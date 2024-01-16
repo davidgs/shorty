@@ -1,0 +1,15 @@
+{
+  "name": "temp-server",
+  "version": "1.0.0",
+  "description": "short-link server",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "typescript": "^5.3.3"
+  }
+}

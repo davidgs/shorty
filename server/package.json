@@ -1,0 +1,18 @@
+{
+  "name": "shorty-server",
+  "version": "1.0.0",
+  "description": "server for link shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David G. Simmons",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.1",
+    "nanoid": "^3.3.7",
+    "pg": "^8.11.3"
+  }
+}
